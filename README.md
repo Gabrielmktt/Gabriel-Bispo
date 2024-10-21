@@ -1,2 +1,2 @@
 # Gabriel-Bispo
-Senac lapa tito TI-47 
+Senac lapa tito TI-47
